@@ -51,7 +51,7 @@
 <!-- ══ PREVIEW SECTION ══ -->
 <div align="center">
 
-<img src="" width="100%"/>
+<img src="ElectroStorePreview.png" width="100%"/>
 
 <br/><br/>
 
